@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: GabrielBB
+name: vscode-lombok
+version: 1.0.1
+type: VS Code extension
+displayName: lombok
+title: lombok
+description: lombok
+icon: https://raw.githubusercontent.com/GabrielBB/vscode-lombok/master/images/icon.png
+category: Other
+repository: https://github.com/GabrielBB/vscode-lombok
+firstPublicationDate: "2020-02-19"
+spec:
+  extensions:
+  - https://xiazhijian.github.io/vs-code-lombok/GabrielBB.vscode-lombok-1.0.1.vsix
